@@ -1,0 +1,12 @@
+
+C:\Users\admin\Desktop\drive\FOURTH_YEAR\QUARTER 2\CSW_303_software_engineering\lab_2\calculator-app\src\main\main.js
+  5:9  warning  'unusedConfig' is assigned a value but never used  no-unused-vars
+
+C:\Users\admin\Desktop\drive\FOURTH_YEAR\QUARTER 2\CSW_303_software_engineering\lab_2\calculator-app\src\renderer\app.js
+  165:9  warning  'debugMode' is assigned a value but never used  no-unused-vars
+
+C:\Users\admin\Desktop\drive\FOURTH_YEAR\QUARTER 2\CSW_303_software_engineering\lab_2\calculator-app\src\shared\calculator.js
+  2:9  warning  'unusedVar' is assigned a value but never used  no-unused-vars
+
+✖ 3 problems (0 errors, 3 warnings)
+
